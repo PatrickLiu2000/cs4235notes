@@ -2,7 +2,7 @@
 
 ## Block Cipher Primitives
 - confusion:
-    - an encryption operation where the relationship between key and ciphertext os obscured (achieved using substitution)
+    - an encryption operation where the relationship between key and ciphertext is obscured (achieved using substitution)
 - diffusion:
     - operation where influence of 1 plaintext bit is spread over many ciphertext bits with the goal of hiding statistical properties of plaintext (avoid common letter distributions)
         - achieved using permutations
